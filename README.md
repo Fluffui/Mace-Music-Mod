@@ -2,7 +2,8 @@
 
 ## Setup
 
-Convert the .jar file to a .zip and configure anything you want.
+To download the Mod, download the .jar file
+To edit the mod, convert the .jar file to a .zip and configure anything you want.
 
 ## License
 
